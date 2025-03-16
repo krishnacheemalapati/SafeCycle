@@ -100,14 +100,6 @@ To use SafeCycle, ensure your hardware setup is connected and running. Open the 
 - **Method:** `GET`
 - **Description:** Retrieves all sensor readings.
 
-## Testing
-
-To run tests for SafeCycle:
-
-```bash
-pytest  # If using Python for backend tests
-npm test  # If using Jest for frontend tests
-```
 
 ## Contributing
 
